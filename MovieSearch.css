@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(210, 191, 191);
+    padding: 10px;
+}
+#searchForm {
+    margin-bottom: 20px;
+    
+}
+#movies {
+    display: flex;
+    flex-wrap: wrap;
+}
+.movie {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    box-shadow: 0 0 10px rba(0, 0, 0, 0.1);
+}
+.movie img {
+    max-width: 100%;
+    border-radius: 5px;
+
+}
+.movie h2 {
+    font-size: 10.px;
+    margin: 10px 0;
+}
