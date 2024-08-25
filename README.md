@@ -1,0 +1,1 @@
+A webpage offering movie search results. Type the name of a movie or tv-show into the search bar and select submit. Suggestions most relevant to your query will be displayed. Can be viewed here: https://jessesim.github.io/movie-search/
